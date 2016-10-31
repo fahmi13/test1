@@ -1,0 +1,66 @@
+body {
+	font-family: 'Open Sans';
+	background:#dcdcdc;
+}
+
+#bodyWrapper {
+	width: 800px;
+	margin: auto;
+	background-color:#FFFFFF;
+}
+
+#blok{width:auto; height: auto; background-color:#E75C79;}
+#blokHead{width:auto; height: 300px; background-color:#E75C79;}
+#blok2{width:auto; height: auto;}
+#blok3{width:auto; height: auto; padding:10px 0 0 50px}
+#boxL{width:50%; height: auto; float:left;}
+#boxR{width:50%; height: auto; float:right;}
+.box{width: 50%; height: auto; float:right; }
+.box2{width: 100%; height: auto; float:right; text-align:center}
+#icon{ width:100%; text-align:center; margin-top:10%;}
+
+#iconCam{ width:100%; text-align:center; margin-top:15%;}
+#iconCam2{ width:100%; text-align:center; margin-top:5%;}
+.eth{ text-align:center; font-weight:bold; font-size:20px; float:right; padding-top:15%; color:#D4617E}
+.eth2{ text-align:center; font-weight:bold; font-size:20px;color:#FFFFFF; margin-top:-40px;}
+.eth3{ text-align:center; font-weight:bold; font-size:20px; float:left; padding:10% 0 0 80px; color:#FFFFFF}
+#title{ width:100%; text-align:center; font-weight:bold; font-size:20px; margin-top:15px;}
+.desc{ width:100%; text-align:center; font-size:18px; margin-top:10px;}
+.desc2{ width:100%; text-align: left; font-size:18px; margin:10px 0 0 50px; color: #FFFFFF}
+.line{ border-top:10px solid #E75C79;}
+
+.clear {clear: both; padding-top:10px; }
+.space {clear: both; padding-top:1px; }
+
+#iconHead{ width:100%; text-align:center;}
+.headerCap{ font-family:Pacifico; color:#FFFFFF; font-size:36px;width:100%; text-align:center;}
+#titleHead{ width:100%; text-align:center; font-weight:bold; font-size:20px; color:#182D42}
+
+
+
+#profilHead{width:auto; height: 300px; background-color:#F26B56;}
+#blok4{width:auto; height: auto; background-color:#20124D;}
+#blok5{width:auto; height: auto; background-color:#F26B56;}
+#foto{ text-align:center; margin-top:15%;  margin:-150px 50px 0 0; float:right}
+.profilLine{ border-top:10px solid #EF4744;}
+.profilLine2{ border-top:2px solid #EF4744;}
+.profilTitle{ text-align: left; font-weight:bold; font-size:20px; margin-top:15px; color:#20124D;}
+#boxL1{width:39%; height: auto; float:left;}
+#boxR2{width:59%; height: auto; float:right;}
+.box3{width: 60%; height: auto;}
+.box4{width: 80%; height: auto; margin:auto}
+.box5{width: 40%; height: auto; margin:auto}
+
+#icon2{ width:100%; text-align:center; }
+#boxU{ background:url(../pict/Graphic10.PNG) no-repeat;  width:300px; height:80px;}
+.boxT{  float:left; color:#FFFFFF; font-weight:bold; font-size:24px; margin:20px 0 0 30px;}
+.boxT2{ width:50%; float:left; color:#FF6661; font-weight:bold; font-size:24px; margin:20px 0 0 30px;  text-align:center}
+.boxT3{  float:left; color:#FF6661; font-weight:bold; font-size:24px; margin:20px 0 0 30px;  text-align:center}
+#boxD{width: auto; margin-left:60px}
+#boxA{width: auto; float:left; padding:20px}
+#boxx{width:88%;  margin:auto}
+#boxIcon{width:33%; float:left;  text-align:center}
+
+	
+/*border:1px solid #000000;
+
